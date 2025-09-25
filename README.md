@@ -18,4 +18,4 @@ Here is the UI:
 
 ![View](https://github.com/RonaldGustavo/simple-project-svelte/blob/master/public/assets/ui.png)
 
-> You can also view the live site [here]()
+> You can also view the live site [here](https://simple-project-svelte.vercel.app/)
